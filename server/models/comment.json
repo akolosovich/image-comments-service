@@ -9,7 +9,7 @@
   "properties": {
     "text": {
       "type": "string",
-      "required": true
+      "required": false
     },
     "coordinates": {
       "type": "object",
