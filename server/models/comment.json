@@ -20,14 +20,20 @@
       "required": true
     },
     "type": {
-      "type": "string"
+      "type": "string",
+      "required": false
     },
     "imageId": {
       "type": "string",
-      "required": true
+      "required": false
+    },
+    "imageIndex": {
+      "type": "number",
+      "required": false
     },
     "adId": {
-      "type": "string"
+      "type": "string",
+      "required": false
     }
   },
   "validations": [],
